@@ -10,11 +10,6 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
-
-<p align="center">
-  <img alt="Projeto de Links para Redes Sociais" src=".Github/previw.jpg">
-</p>
-
 <br>
 
 <p align="center">
@@ -32,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Social Links é um agregador de links para usar como cartão de visitas online em suas Redes Socias.
+O Social Links é um agregador de links para usar como cartão de visitas online em suas redes sociais.
 
 ## 🔖 Layout
 
