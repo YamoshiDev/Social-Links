@@ -12,7 +12,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="Desafio Dio.me Html" src=".Github/previw.jpg">
+  <img alt="Projeto de Links para Redes Sociais" src=".Github/previw.jpg">
 </p>
 <br>
 
